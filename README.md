@@ -29,6 +29,5 @@ Ah, the holy grail of modern technology! Imagine if the car could learn from its
 
 So, there you have it - the Line Following Car: Shitty First Draft Edition. It may not be perfect, but hey, Rome wasn't built in a day... and neither was a self-driving car! 🤖 Let's embark on this journey of trial and error together, shall we?
 
-
-https://github.com/pr0fi7/line_following_car/assets/53155116/b03a961e-8031-4635-bdf6-bd261e649394
+![2024-04-0923 06 53-ezgif com-speed](https://github.com/pr0fi7/line_following_car/assets/53155116/7bac923e-45a1-4a86-8485-b83565c227dc)
 
